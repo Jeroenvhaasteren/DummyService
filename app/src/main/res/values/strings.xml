@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DummyService</string>
+    <string name="start_bound_service">Start Bound Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="next_icon"><![CDATA[>>]]></string>
+    <string name="start_intentservice">Start IntentService</string>
+    <string name="input">Type something...</string>
+    <string name="default_et_text">Hello World!</string>
 </resources>
