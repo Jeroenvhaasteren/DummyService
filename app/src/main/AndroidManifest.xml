@@ -22,6 +22,10 @@
             android:exported="false" />
         <service
             android:name=".CustomIntentService"
+            android:exported="false" />
+        <service
+            android:name=".BoundService"
+            android:enabled="true"
             android:exported="false"></service>
     </application>
 
